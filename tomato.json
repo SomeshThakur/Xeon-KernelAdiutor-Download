@@ -95,7 +95,7 @@
       "url": "http://ca1.androidfilehost.com/dl/Ka3fbtTtZAcTrpZVgEpwDQ/1449717459/24269982087012296/Xeon-r5-tomato-UBTC.zip",
       "md5sum": "56a988e4a25b3e923451b2829eca7669",
       "changelog": [
-          "( Common )"
+          "( Common )",
           " Enabled Pipe Flag",
           " Add interruptible wait to reduce system load average in msm",
           " Add Interactive Governor tweaks",
@@ -123,7 +123,7 @@
       "url": "http://qc4.androidfilehost.com/dl/NOk1-CBbY653_v1fswOeGA/1449717543/24269982087012297/Xeon-r5-tomato-SMTC.zip",
       "md5sum": "b282bbc28f052466ab6fbed4aa07a7e5",
       "changelog": [
-          "( Common )"
+          "( Common )",
           " Enabled Pipe Flag",
           " Add interruptible wait to reduce system load average in msm",
           " Add Interactive Governor tweaks",
