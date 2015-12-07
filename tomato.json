@@ -1,0 +1,147 @@
+{
+  "name": "<b><font color=\"#FFFFFF\">Xeon™ Kernel</font></b>",
+  "short_description": "#Be_Xeonotic!",
+  "long_description": "<b>The most powerful kernel, Smothness master, Battery++, Performance++<br>Aiming to provide the best SOT of all the time<br><br><a href=\"http://www.facebook.com/somesh.thakur.3956\">My Facebook Profile!</a><br><a href=\"https://github.com/SomeshThakur\">My GitHub!</a><b>",
+  "logo": "http://i.imgur.com/I5VwPD4.png",
+  "xda": "http://forum.xda-developers.com/yureka/development/x64-xeon-kernel-t3251068",
+  "github": "https://github.com/SomeshThakur/Xeon-Kernel",
+  "features": [
+    "Based on the latest sources from cyanogenmod",
+    "Linux Kernel Versio 3.10.92",
+    "Compiled with SaberMod 6.0 and Uber 5.0.2!",
+    "CPU overclocked to 1.7Ghz",
+    "GPU overclocked to 650MHz",
+    {
+      "name": "CPU Governors",
+      "items": [
+        "interactive (default)",
+        "ondemand",
+        "userspace",
+        "powersave",
+        "performance",
+        "alucard",
+        "intellidemand",
+        "smartmax",
+        "alucard",
+        "impulse",
+        "elementalx",
+        "yankactive",
+        "zzmove",
+        "darkness",
+        "conservative"
+      ]
+    },
+    {
+      "name": "I/O Schedulers",
+      "items": [
+        "noop (default)",
+        "deadline",
+        "bfq ",
+        "cfq",
+        "row",
+        "fiops",
+        "sio"
+      ]
+    },
+    "Compiled from latest source and Commits",
+    "Built Using Latest Ubertc and Sabermod Toolchain (aarch64)",
+    "CPU Cluster-1 Overclocked to 1.7Ghz",
+    "Touch Boost",
+    "Cortex A53 Optimizations",
+    "LZ4 Compression Level",
+    "Fix high load average from uninterruptible waits",
+    "Cortex A53/ARMv8 architecture Tune-Up",
+    "Enabled ARCH_POWER",
+    "Support Multiple cpuidlIe",
+    "Supports 32 bit ELO",
+    "Core dump support",
+    "Management debug support",
+    "Multi Processing",
+    "Supports ARMv7 Applications",
+    "Cross Memory Support",
+    "Kernel Debugging",
+    "Early Prinkt Support",
+    "Double Tap 2 Wake",
+    "Double Tap 2 Sleep",
+    "Full crypto Support",
+    "Universal ROM support (Only For Lollipop)",
+    "ThunderCharge Control",
+    "Custom Gestures",
+    "Gestures available",
+    "Vibration Intensity Control",
+    "ThunderPlug",
+    "Dynamic Fsync",
+    "Additional IOSchedulers,FIOPS",
+    "zSwap support",
+    "Samsung's F2FS support",
+    "Disabled MMC CRC check for extra 30% boost in IO",
+    "Upgraded 'random' module to Linux 3.18 with various other patches for improved entropy seeding",
+    "Multi-level Endurance Mode",
+    "Suspend CPUs adjustment",
+    "KCAL Color Control",
+    "Universal ROM support (64-bit only)",
+    "Enabled ARCH_POWER",
+    "Intelli Plugin(Faux Feature)",
+    "Bricked Hotplug",
+    "Msm Hotplug",
+    "Abyssplug Governor",
+    "Adreno Idler",
+    "Much more find your self"
+  ],
+  "downloads": [
+    { 
+      "name": "Xeon-r5 (Uber TC)",
+      "description": "<b>Xeon kernel (Uber TC) for x64 Lollipop ROMs (5.x.x)</b>>",
+      "url": "http://ca1.androidfilehost.com/dl/Ka3fbtTtZAcTrpZVgEpwDQ/1449717459/24269982087012296/Xeon-r5-tomato-UBTC.zip",
+      "md5sum": "56a988e4a25b3e923451b2829eca7669",
+      "changelog": [
+              "( Common )"
+              " Enabled Pipe Flag
+              " Add interruptible wait to reduce system load average in msm"
+              " Add Interactive Governor tweaks"
+              " Partial OC till 1.7Ghz ( All revs may not receive OC )"
+              " O3 Optimization with additional flags :D"
+              " Add Mako Hotplug"
+              " Add new Audio drivers :)"
+              " Bye Bye Debugs :v"
+              "Now Interesting part:"
+              "( Not seen in other kernels before )"
+              " New Load Freq avoids moire ( 4*HZ + 61 ):D"
+              " Low memory kill added for_each_thread insteadof while_each_thread"
+              " Implement Fast Idling of CPU when System is partial"
+              " Add Interruptible Thread to Mdss dsi host"
+              " MPM Disabled Debugging"
+              " Interactive Governor added Euclidean CPU relation"
+              " Add new -go, -fvopts,-fno-inline function optimization"
+              " Add Time keeping move clock sync work to power efficient work queue ( For better use of CPU idle time )"
+              " Enabled Conservative governor."
+      ]
+    },
+    {
+    "name": "Xeon-r5 (SaberMod TC)",
+      "description": "<b>Xeon kernel (SaberMod TC) for x64 Lollipop ROMs (5.x.x)</b>",
+      "url": "http://qc4.androidfilehost.com/dl/NOk1-CBbY653_v1fswOeGA/1449717543/24269982087012297/Xeon-r5-tomato-SMTC.zip",
+      "md5sum": "b282bbc28f052466ab6fbed4aa07a7e5",
+      "changelog": [
+              "( Common )"
+              " Enabled Pipe Flag
+              " Add interruptible wait to reduce system load average in msm"
+              " Add Interactive Governor tweaks"
+              " Partial OC till 1.7Ghz ( All revs may not receive OC )"
+              " O3 Optimization with additional flags :D"
+              " Add Mako Hotplug"
+              " Add new Audio drivers :)"
+              " Bye Bye Debugs :v"
+              "Now Interesting part:"
+              "( Not seen in other kernels before )"
+              " New Load Freq avoids moire ( 4*HZ + 61 ):D"
+              " Low memory kill added for_each_thread insteadof while_each_thread"
+              " Implement Fast Idling of CPU when System is partial"
+              " Add Interruptible Thread to Mdss dsi host"
+              " MPM Disabled Debugging"
+              " Interactive Governor added Euclidean CPU relation"
+              " Add new -go, -fvopts,-fno-inline function optimization"
+              " Add Time keeping move clock sync work to power efficient work queue ( For better use of CPU idle time )"
+              " Enabled Conservative governor."
+      ]
+    }
