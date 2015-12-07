@@ -114,7 +114,7 @@
           " Interactive Governor added Euclidean CPU relation",
           " Add new -go, -fvopts,-fno-inline function optimization",
           " Add Time keeping move clock sync work to power efficient work queue ( For better use of CPU idle time )",
-          " Enabled Conservative governor.",
+          " Enabled Conservative governor."
       ]
     },
     {
@@ -142,6 +142,8 @@
           " Interactive Governor added Euclidean CPU relation",
           " Add new -go, -fvopts,-fno-inline function optimization",
           " Add Time keeping move clock sync work to power efficient work queue ( For better use of CPU idle time )",
-          " Enabled Conservative governor.",
-       ]
+          " Enabled Conservative governor"
+      ]    
     }
+  ]
+}
