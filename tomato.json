@@ -124,7 +124,7 @@
       "md5sum": "b282bbc28f052466ab6fbed4aa07a7e5",
       "changelog": [
               "( Common )"
-              " Enabled Pipe Flag
+              " Enabled Pipe Flag"
               " Add interruptible wait to reduce system load average in msm"
               " Add Interactive Governor tweaks"
               " Partial OC till 1.7Ghz ( All revs may not receive OC )"
