@@ -1,6 +1,6 @@
 {
   "name": "<b><font color=\"#FFFFFF\">Xeon™ Kernel</font></b>",
-  "short_description": "#Be_Xeonotic!",
+  "short_description": "#Be_Xeonotic! With YU, Xeon r5 live",
   "long_description": "<b>The most powerful kernel, Smothness master, Battery++, Performance++<br>Aiming to provide the best SOT of all the time<br><br><a href=\"http://www.facebook.com/somesh.thakur.3956\">My Facebook Profile!</a><br><a href=\"https://github.com/SomeshThakur\">My GitHub!</a><b>",
   "logo": "http://i.imgur.com/I5VwPD4.png",
   "xda": "http://forum.xda-developers.com/yureka/development/x64-xeon-kernel-t3251068",
@@ -9,7 +9,7 @@
     "Based on the latest sources from cyanogenmod",
     "Linux Kernel Versio 3.10.92",
     "Compiled with SaberMod 6.0 and Uber 5.0.2!",
-    "CPU overclocked to 1.7Ghz",
+    "CPU overclocked to 1.7Ghz (Partially)",
     "GPU overclocked to 650MHz",
     {
       "name": "CPU Governors",
@@ -91,8 +91,8 @@
   "downloads": [
     { 
       "name": "Xeon-r5 (Uber TC)",
-      "description": "<b>Xeon kernel (Uber TC) for x64 Lollipop ROMs (5.x.x)</b>>",
-      "url": "http://ca1.androidfilehost.com/dl/Ka3fbtTtZAcTrpZVgEpwDQ/1449717459/24269982087012296/Xeon-r5-tomato-UBTC.zip",
+      "description": "<b>Xeon kernel (Uber TC) for x64 Lollipop ROMs (5.x.x)</b>",
+      "url": "http://qc3.androidfilehost.com/dl/QWnOgciRvAGE6iijrcVTdQ/1449999268/24269982087012296/Xeon-r5-tomato-UBTC.zip",
       "md5sum": "56a988e4a25b3e923451b2829eca7669",
       "changelog": [
           "( Common )",
@@ -120,7 +120,7 @@
     {
     "name": "Xeon-r5 (SaberMod TC)",
       "description": "<b>Xeon kernel (SaberMod TC) for x64 Lollipop ROMs (5.x.x)</b>",
-      "url": "http://qc4.androidfilehost.com/dl/NOk1-CBbY653_v1fswOeGA/1449717543/24269982087012297/Xeon-r5-tomato-SMTC.zip",
+      "url": "http://qc4.androidfilehost.com/dl/TesjnmZBI1sxnDvA3QuMkw/1449999345/24269982087012297/Xeon-r5-tomato-SMTC.zip",
       "md5sum": "b282bbc28f052466ab6fbed4aa07a7e5",
       "changelog": [
           "( Common )",
