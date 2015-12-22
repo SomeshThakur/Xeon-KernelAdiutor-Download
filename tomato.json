@@ -92,7 +92,7 @@
     { 
       "name": "Xeon-r5 (Uber TC)",
       "description": "<b>Xeon kernel (Uber TC) for x64 Lollipop ROMs (5.x.x)</b>",
-      "url": "http://fs1.d-h.st/download/00205/ft0D/Xeon-r5-tomato-UBTC.zip",
+      "url": "http://download938.mediafire.com/fzjg9x8uvhwg/cdg1c7stxhk8thv/Xeon-r5-tomato-UBTC.zip",
       "md5sum": "56a988e4a25b3e923451b2829eca7669",
       "changelog": [
           "( Common )",
@@ -120,7 +120,7 @@
     {
     "name": "Xeon-r5 (SaberMod TC)",
       "description": "<b>Xeon kernel (SaberMod TC) for x64 Lollipop ROMs (5.x.x)</b>",
-      "url": "http://fs1.d-h.st/download/00205/tFEb/Xeon-r5-tomato-SMTC.zip",
+      "url": "http://download1514.mediafire.com/319mjo94cigg/5zfx74mlv5vz00e/Xeon-r5-tomato-SMTC.zip",
       "md5sum": "b282bbc28f052466ab6fbed4aa07a7e5",
       "changelog": [
           "( Common )",
@@ -148,7 +148,7 @@
     {
     "name": "Xeon-r5 Android-M | CM13 (Uber TC)",
       "description": "<b>Xeon kernel (Uber TC) for x64 MArshmallow ROMs (6.x.x)</b>",
-      "url": "http://fs1.d-h.st/download/00205/FdP5/Xeon-r5-tomato-Android_M-CM13.zip",
+      "url": "http://download850.mediafire.com/tfgm689vd8sg/34siq9xdzi0d2kv/Xeon-r5-tomato-Android_M-CM13.zip",
       "md5sum": "7c590d79ac1bcaf8be3bf52e5ac2e88f",
       "changelog": [
           "( Common )",
